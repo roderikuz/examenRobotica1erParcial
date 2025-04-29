@@ -1,2 +1,2 @@
 # examenRobotica1erParcial
-Control de versiones de examen 1er. parcial de robótica de Rodrigo Ainar Barajas Gaete. Así como el examen resuelto en formato JN.
+En el repositorio además de este archivo README, se encuntran el controlo de versiones (comentadas) de la evolución del examen) . Así mismo se encuntra la versión final del examen en fomrato JN. 
