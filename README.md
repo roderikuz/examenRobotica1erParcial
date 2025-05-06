@@ -8,6 +8,7 @@ Este proyecto corresponde al **Examen del Primer Parcial** de la asignatura de *
 
 Incluye diagramas, análisis matemáticos (modelo cinemático y dinámico) y el código utilizado para llegar a las ecuaciones correspondientes.
 
+## 📁 Archivos del Proyecto
 
 ## 🧰 Tecnologías Utilizadas
 
