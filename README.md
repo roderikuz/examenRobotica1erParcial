@@ -9,8 +9,8 @@ Este proyecto corresponde al **Examen del Primer Parcial** de la asignatura de *
 Incluye diagramas, análisis matemáticos (modelo cinemático y dinámico) y el código utilizado para llegar a las ecuaciones correspondientes.
 
 ## 📁 Archivos del Proyecto
-├── examen_robotica.mlx # Script original en MATLAB
-├── examen_robotica.ipynb # Versión exportada a Jupyter Notebook
+├── examen_robotica.mlx # Script original en MATLAB //
+├── BarajasRodrigo_examen1erParcial.ipynb # Versión exportada a Jupyter Notebook //
 └── README.md # Este archivo
 
 ## 🧰 Tecnologías Utilizadas
