@@ -15,7 +15,7 @@ Incluye diagramas, análisis matemáticos (modelo cinemático y dinámico) y el 
 
 ## 🧰 Tecnologías Utilizadas
 
-- MATLAB R2023a
+- MATLAB R2024b
 - MATLAB Live Scripts (.mlx)
 - Jupyter Notebook
 - MATLAB Kernel for Jupyter (opcional para ejecutar desde Jupyter)
