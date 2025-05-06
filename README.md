@@ -1,2 +1,13 @@
-# examenRobotica1erParcial
-En el repositorio además de este archivo README, se encuntran el control de versiones (comentadas) de la evolución del examen . Así mismo se encuntra la versión final del examen en fomrato JN. 
+# 🧠 Nombre del Proyecto
+
+![Banner del Proyecto](https://via.placeholder.com/1000x300.png?text=Nombre+del+Proyecto)
+
+## Descripción
+
+Breve descripción del proyecto. Explica qué hace, por qué es útil, y para quién está dirigido.
+
+## 🚀 Tecnologías utilizadas
+
+- Lenguaje: Python / C++ / JavaScript / etc.
+- Frameworks: Flask / React / TensorFlow / etc.
+- Herramientas: Docker / Git / VSCode / etc.
